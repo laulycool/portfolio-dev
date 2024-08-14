@@ -380,7 +380,7 @@ would shorten green bar to text size if required
 @media (min-width:600px) {
     .about-me {
         display: grid;
-        grid-template-columns: 1fr 350px;
+        grid-template-columns: 1fr 450px;
         grid-template-areas: 
             "title img"
             "subtitle img"
